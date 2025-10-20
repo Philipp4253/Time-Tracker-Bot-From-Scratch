@@ -46,5 +46,5 @@ OAuth2 Client
 🧩 Автор
 
 Филипп Высоцкий
-Telegram: [@filipp_vysotskii]
+Telegram: [https://t.me/filipp_vysotskii]
 Email: [filippvys@gmail.com]
