@@ -52,9 +52,7 @@
 👤 Автор
 
 Филипп Высоцкий
-📨 Email: filippvys@gmail.com
-
-💬 Telegram: https://t.me/filipp_vysotskii
+📨 Email: filippvys@gmail.com    💬 Telegram: https://t.me/filipp_vysotskii
 
 💡 О проекте
 
