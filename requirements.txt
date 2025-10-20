@@ -1,0 +1,9 @@
+pytelegrambotapi
+gspread
+oauth2client
+python-dotenv
+pandas
+python-telegram-bot[job-queue]
+gspread
+oauth2client
+matplotlib
